@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
       clearscreen();
 
       // code of program
-
+      cout<<"Thao"<<endl;
       return 0;
 #else
       testing::InitGoogleTest(&argc, argv);
